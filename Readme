@@ -1,0 +1,8 @@
+
+使用MariaDB的root用户
+设置端口：3307
+设置密码为：123456
+通过命令："source ./query.txt" 
+创建数据库BugTrack和各个表
+
+mysql -u root -p123456 --port=3307

@@ -1,0 +1,13 @@
+  C:\Users\Alfred\Documents\workspace\BugTrack\WebContent:
+
+
+reportbug.jsp:51:			Class.forName("org.mariadb.jdbc.Driver");
+reportbug.jsp:52:		    Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3307/bugtrack?user=root&password=123456&userUnicode=true&characterEncoding=8859_1");
+updatebug.jsp:25:	Class.forName("org.mariadb.jdbc.Driver");
+updatebug.jsp:26:	Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3307/bugtrack?user=root&password=123456&userUnicode=true&characterEncoding=8859_1");
+updatebug.jsp:82:	Class.forName("org.mariadb.jdbc.Driver");
+updatebug.jsp:83:	Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3307/bugtrack?user=root&password=123456&userUnicode=true&characterEncoding=8859_1");
+updatebug1.jsp:10:	Class.forName("org.mariadb.jdbc.Driver");
+updatebug1.jsp:11:	Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3307/bugtrack?user=root&password=123456&userUnicode=true&characterEncoding=8859_1");
+viewbugs.jsp:29:	Class.forName("org.mariadb.jdbc.Driver");
+viewbugs.jsp:30:	Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3307/bugtrack?user=root&password=123456&userUnicode=true&characterEncoding=8859_1");
